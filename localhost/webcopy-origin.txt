@@ -1,0 +1,116 @@
+Uri: http://localhost/joomlawebsite/
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index.htm
+Content Type: text/html
+
+Uri: http://localhost/joomlawebsite/index.php
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index.php.html
+Content Type: text/html
+
+Uri: http://localhost/joomlawebsite/index.php/component/users/remind?Itemid=101
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index.php (1)\component\users\remind.html
+Content Type: text/html
+
+Uri: http://localhost/joomlawebsite/index.php/component/users/reset?Itemid=101
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index.php (1)\component\users\reset.html
+Content Type: text/html
+
+Uri: http://localhost/joomlawebsite/index.php?format=feed&type=atom
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index-1.php
+Content Type: application/atom+xml
+
+Uri: http://localhost/joomlawebsite/index.php?format=feed&type=rss
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\index.php
+Content Type: application/rss+xml
+
+Uri: http://localhost/joomlawebsite/media/mod_menu/js/menu.min.js?023a2f
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\mod_menu\js\menu.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/system/css/joomla-fontawesome.min.css?023a2f
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\css\joomla-fontawesome.min.css
+Content Type: text/css
+
+Uri: http://localhost/joomlawebsite/media/system/images/ajax-loader.gif?v=144b8c
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://localhost/joomlawebsite/media/system/images/favicon.ico
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://localhost/joomlawebsite/media/system/images/joomla-favicon-pinned.svg
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\images\joomla-favicon-pinned.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/joomlawebsite/media/system/images/joomla-favicon.svg
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\images\joomla-favicon.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/joomlawebsite/media/system/js/core.min.js?83f2c9
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\js\core.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/system/js/fields/passwordview.min.js?d2a409
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\js\fields\passwordview.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/system/js/fields/validate.min.js?bc7e8e
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\js\fields\validate.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/system/js/keepalive.min.js?08e025
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\js\keepalive.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/system/js/messages.min.js?7a5169
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\system\js\messages.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/templates/site/cassiopeia/css/global/colors_standard.min.css?023a2f
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\templates\site\cassiopeia\css\global\colors_standard.min.css
+Content Type: text/css
+
+Uri: http://localhost/joomlawebsite/media/templates/site/cassiopeia/css/template.min.css?023a2f
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\templates\site\cassiopeia\css\template.min.css
+Content Type: text/css
+
+Uri: http://localhost/joomlawebsite/media/templates/site/cassiopeia/css/vendor/joomla-custom-elements/joomla-alert.min.css?0.2.0
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\templates\site\cassiopeia\css\vendor\joomla-custom-elements\joomla-alert.min.css
+Content Type: text/css
+
+Uri: http://localhost/joomlawebsite/media/templates/site/cassiopeia/images/select-bg.svg?v=5ebba0
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\templates\site\cassiopeia\images\select-bg.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/joomlawebsite/media/templates/site/cassiopeia/js/template.min.js?023a2f
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\templates\site\cassiopeia\js\template.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=193142
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=b6356c
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=a0cc1c
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=023a4a
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=25914c
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/joomlawebsite/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=6c4eee
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/joomlawebsite/media/vendor/joomla-custom-elements/css/joomla-alert.css
+File Name: C:\Users\ESMERALDA\Documents\Nueva carpeta\localhost\joomlawebsite\media\vendor\joomla-custom-elements\css\joomla-alert.css
+Content Type: text/css
+
